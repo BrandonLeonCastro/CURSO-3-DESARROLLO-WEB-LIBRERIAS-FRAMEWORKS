@@ -70,6 +70,11 @@ p{
 .comentarios img{
   height: 80px;
 }
+
+.columna-3{
+  height: 80px;
+}
+
 @media (min-width:1000px) {
   .redes-sociales{
     margin-top: 200px;
@@ -77,6 +82,9 @@ p{
 }
 
 @media (max-width:900px) {
+  .columna-2{
+    display: none;
+  }
   .comentarios img{
     height: 60px;
   }
