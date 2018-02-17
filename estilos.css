@@ -81,7 +81,24 @@ p{
   }
 }
 
+@media (min-width:1000px) and (max-width:1200px) {
+  .columna-secundaria img{
+    height: 12vh;
+  }
+  .comentarios img{
+    height: 60px;
+  }
+  .comentarios textarea{
+    width: 550px;
+  }
+  .redes-sociales img{
+    height: 30px;
+  }
+}
 @media (max-width:900px) {
+  .columna-secundaria img{
+    height: 35vh;
+  }
   .columna-2{
     display: none;
   }
