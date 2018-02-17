@@ -48,6 +48,14 @@ body{
   margin-top: 70px;
 }
 
+.comentario img{
+  height: 50px;
+}
+
+.comentario-2 img{
+  height: 50px;
+}
+
 h6{
   color: red;
 }
