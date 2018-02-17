@@ -25,6 +25,11 @@ body{
   border: none;
 }
 
+.columna-principal{
+  margin-top: 10px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
 .imagen img{
   height: 100px;
 }
@@ -37,4 +42,12 @@ body{
 .barra-navegacion-2{
   margin-left:14px;
   margin-right: 14px;
+}
+
+.comentario{
+  margin-top: 70px;
+}
+
+h6{
+  color: red;
 }
