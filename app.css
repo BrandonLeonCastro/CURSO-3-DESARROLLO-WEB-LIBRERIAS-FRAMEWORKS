@@ -31,4 +31,10 @@ body{
 
 .secundaria{
   background-color: rgba(255, 255, 255, 0.8);
+  margin-top: 10px;
+}
+
+.barra-navegacion-2{
+  margin-left:14px;
+  margin-right: 14px;
 }
