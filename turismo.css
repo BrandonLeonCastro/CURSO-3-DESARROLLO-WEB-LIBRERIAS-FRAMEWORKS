@@ -1,0 +1,44 @@
+.contenedor-1{
+  height: 10rem;
+}
+
+body{
+  background: url(../img/paisaje.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.logo img{
+  height: 14rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+.barra-navegacion{
+  margin-top: 2rem;
+}
+
+.botones{
+  height: 3rem;
+}
+
+.logo h4{
+  margin-top: 8rem;
+}
+
+@media (max-width:600px){
+.botones{
+  width: 1rem;
+}
+.logo img{
+  margin-top: 0;
+  margin-left: 0;
+}
+.logo h4{
+  margin-top: 2rem;
+}
+}
